@@ -1,3 +1,16 @@
 # CS-3503---Comp-Org-Arch-BitBoard-Checkers-Project-1
 CS 3503 - Comp Org &amp; Arch BitBoard Checkers Project 1
-// Sans worm
+
+## Author 
+Mateo Nabor
+
+## Description
+A checker's board game for Owl Tech’s 
+
+
+
+
+
+
+
+
